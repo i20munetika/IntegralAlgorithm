@@ -2,7 +2,7 @@
 
 研究部にて発表しました「逆双曲線関数を分母に含む積分の一般化」という発表で用いたプログラムです。
 
-$\displaystyle \int_0^1 \frac{x^{n+2m} }{\text{artanh}\ x} dx$ を計算します。
+$\displaystyle \int_0^1 \frac{x^{n+2m} }{\text{artanh}^n\ x} dx$ を計算します。
 
 $n,m < 30$ 程度の範囲であれば現実的な時間で動作します。
 
